@@ -5,6 +5,7 @@ Esta tabla es la unica fuente de datos del sitio: la portada y cada pagina de vi
 - No cambies el orden de las columnas.
 - La columna **Viaje/Lugar** agrupa las fotos: filas con el mismo texto exacto quedan juntas en una misma pagina.
 - Si incluyes un mes y un año en Viaje/Lugar (ej. "Santander, abril 2025") el sitio puede ordenar los viajes cronologicamente. Sin fecha, el viaje aparece al final, en "Sin fecha".
+- | Casa Luz Adriana | Villa de Leyva, Boyacá | Villa de Leyva, agosto 2025 | https://www.teleport360.app/share/6fab31cf-f33a-4055-a165-07d7fef1161c |
 
 | Lugar | Ubicación | Viaje/Lugar | Enlace foto 360 |
 |---|---|---|---|
@@ -16,7 +17,6 @@ Esta tabla es la unica fuente de datos del sitio: la portada y cada pagina de vi
 | Flow agility, open space | Medellin | Medellin, mayo 2025 | https://www.teleport360.app/share/9ea6e6c5-5094-4d3d-a633-6666448c82b6 |
 | Flow agility, Market place | Medellin | Medellin, mayo 2025 | https://www.teleport360.app/share/e90a9d5f-428d-4438-8f67-e90a6718952f |
 | Reserva Madre Monte | Arcabuco, Boyaca | Arcabuco, Julio 2025 | https://www.teleport360.app/share/df177d75-7469-4463-95f2-1b66bd2dcc3c |
-| Casa Luz Adriana | Villa de Leyva, Boyacá | Villa de Leyva, agosto 2025 | https://www.teleport360.app/share/6fab31cf-f33a-4055-a165-07d7fef1161c |
 | Palacio San Francisco, Bienal de Bogotá | Bogota | Bogota | https://www.teleport360.app/share/f7804b18-5f49-4b1a-bdff-62d1c4608275 |
 | Iglesia Cristo Rey | Pasto, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/93c01ac7-f300-4eaa-89f5-a4271b28f86e |
 | Cristo | Ospina, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/b215d24f-ad19-48bd-b224-9183bdf0f6ca |
