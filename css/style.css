@@ -202,7 +202,7 @@ h2{
 }
 .orb.large{ width: 168px; height:168px; }
 .orb.large::before{ animation: spin 34s linear infinite; }
-.orb.card{ width: 23px; height:23px; }
+.orb.card{ width: 40px; height:40px; }
 .orb.card::before{
   background-image: repeating-linear-gradient(
     90deg,
@@ -252,7 +252,7 @@ h2{
 .trip-row .orb-stack{
   display:flex;
 }
-.trip-row .orb-stack .orb{ margin-left: -8px; }
+.trip-row .orb-stack .orb{ margin-left: -16px; }
 .trip-row .orb-stack .orb:first-child{ margin-left:0; }
 
 .trip-info h2{ font-size: 23px; }
