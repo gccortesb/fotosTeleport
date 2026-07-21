@@ -37,6 +37,6 @@ Esta tabla es la unica fuente de datos del sitio: la portada y cada pagina de vi
 | Reserva | Laguna de La Cocha, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/5ed387c3-a6a3-495f-9c24-3e2741bfb2a4 |
 | Casa Maka | Kigali, Rwanda | Rwanda, enero 2026 | https://www.teleport360.app/share/0b3389e7-3297-468f-b64d-a286eaa1256c |
 | Topkapi Palace | Estambul, Turquía | Estambul, enero 2026 | https://www.teleport360.app/share/01d5bb41-72fa-435c-8a1d-6556f1d91ee5 |
-| Rio Palmar | Ubaque, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/6a24d80c-dae4-4858-8319-e2a01dc14e3b |
-| Parque Matarredonda I | Choachi, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/284e2184-7bd9-47b8-95c0-99c0e099873d |
-| Parque Matarredonda II | Choachi, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/3ca1ca30-cd83-4bb1-b4da-d0b0b2277933 |
+| Rio Palmar | Ubaque, Cundinamarca | Semana Santa, marzo 2026 | https://www.teleport360.app/share/6a24d80c-dae4-4858-8319-e2a01dc14e3b |
+| Parque Matarredonda I | Choachi, Cundinamarca | Semana Santa, abril 2026 | https://www.teleport360.app/share/284e2184-7bd9-47b8-95c0-99c0e099873d |
+| Parque Matarredonda II | Choachi, Cundinamarca | Semana Santa, abril 2026 | https://www.teleport360.app/share/3ca1ca30-cd83-4bb1-b4da-d0b0b2277933 |
