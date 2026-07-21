@@ -29,14 +29,14 @@ Esta tabla es la unica fuente de datos del sitio: la portada y cada pagina de vi
 | Sea Port | Boston, USA | Boston, Julio 2026 | https://www.teleport360.app/share/935ddccd-1d4e-44d9-8d2d-7f96694694ba |
 | MIT Chapel | Boston, USA | Boston, Julio 2026 | https://www.teleport360.app/share/76287846-f3ae-41c5-89ba-bdc6d4f1d6ce |
 | MIT, Terraza Visual Arts Center | Boston, USA | Boston, Julio 2026 | https://www.teleport360.app/share/eaf0e88b-5515-4e98-b789-78995f82ce44 |
-| Cañon del Guaitara | Las Lajas, Nariño | Octubre, 2025 | https://www.teleport360.app/share/f1a03193-abfd-43e4-bf6f-c3ef63062613 |
-| Gruta de la Paz | Carchi, Ecuador | Octubre, 2025 | https://www.teleport360.app/share/ebf59fa8-d659-4f02-af99-fb829da75e41 |
-| Piedra de Bolívar | Consaca, Nariño | Octubre, 2025 | https://www.teleport360.app/share/910d0c9d-f4e0-4f93-80a3-3b6f82005587 |
-| Museo Indabo, parque | Kigali, Rwanda | Enero, 2026 | https://www.teleport360.app/share/38470aee-3f03-4a0d-9e9b-adba632fd7d4 |
-| Laguna de La Cocha | El Encano, Nariño | Octubre, 2025 | https://www.teleport360.app/share/07c2ffeb-ae18-4033-aad7-b1e454a33fbf |
-| Reserva | Laguna de La Cocha, Nariño | Octubre, 2025 | https://www.teleport360.app/share/5ed387c3-a6a3-495f-9c24-3e2741bfb2a4 |
-| Casa Maka | Kigali, Rwanda | Octubre, 2025 | https://www.teleport360.app/share/0b3389e7-3297-468f-b64d-a286eaa1256c |
-| Topkapi Palace | Estambul, Turquía | Enero, 2026 | https://www.teleport360.app/share/01d5bb41-72fa-435c-8a1d-6556f1d91ee5 |
-| Rio Palmar | Ubaque, Cundinamarca | Marzo, 2026 | https://www.teleport360.app/share/6a24d80c-dae4-4858-8319-e2a01dc14e3b |
-| Parque Matarredonda I | Choachi, Cundinamarca | Abril, 2026 | https://www.teleport360.app/share/284e2184-7bd9-47b8-95c0-99c0e099873d |
-| Parque Matarredonda II | Choachi, Cundinamarca | Abril, 2026 | https://www.teleport360.app/share/3ca1ca30-cd83-4bb1-b4da-d0b0b2277933 |
+| Cañon del Guaitara | Las Lajas, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/f1a03193-abfd-43e4-bf6f-c3ef63062613 |
+| Gruta de la Paz | Carchi, Ecuador | Nariño, octubre 2025 | https://www.teleport360.app/share/ebf59fa8-d659-4f02-af99-fb829da75e41 |
+| Piedra de Bolívar | Consaca, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/910d0c9d-f4e0-4f93-80a3-3b6f82005587 |
+| Museo Indabo, parque | Kigali, Rwanda | Rwanda, enero 2026 | https://www.teleport360.app/share/38470aee-3f03-4a0d-9e9b-adba632fd7d4 |
+| Laguna de La Cocha | El Encano, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/07c2ffeb-ae18-4033-aad7-b1e454a33fbf |
+| Reserva | Laguna de La Cocha, Nariño | Nariño, octubre 2025 | https://www.teleport360.app/share/5ed387c3-a6a3-495f-9c24-3e2741bfb2a4 |
+| Casa Maka | Kigali, Rwanda | Rwanda, enero 2026 | https://www.teleport360.app/share/0b3389e7-3297-468f-b64d-a286eaa1256c |
+| Topkapi Palace | Estambul, Turquía | Estambul, enero 2026 | https://www.teleport360.app/share/01d5bb41-72fa-435c-8a1d-6556f1d91ee5 |
+| Rio Palmar | Ubaque, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/6a24d80c-dae4-4858-8319-e2a01dc14e3b |
+| Parque Matarredonda I | Choachi, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/284e2184-7bd9-47b8-95c0-99c0e099873d |
+| Parque Matarredonda II | Choachi, Cundinamarca | Semana Santa, 2026 | https://www.teleport360.app/share/3ca1ca30-cd83-4bb1-b4da-d0b0b2277933 |
